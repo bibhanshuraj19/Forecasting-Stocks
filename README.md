@@ -20,5 +20,5 @@ Optimal Portfolio Weights
     ↓
 Results Saved to Supabase
     ↓
-Streamlit Dashboard Hosted on Hostinger VPS
+Streamlit Dashboard Hosting (vercel)
 ```
