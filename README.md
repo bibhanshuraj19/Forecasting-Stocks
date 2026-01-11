@@ -2,8 +2,7 @@
 
 
 
-
-## Project Workflow
+## Project Workflow 
 
 ```
 Historical Data Extraction
@@ -20,5 +19,5 @@ Optimal Portfolio Weights
     ↓
 Results Saved to Supabase
     ↓
-Streamlit Dashboard Hosting (vercel)
+Streamlit Dashboard Hosting (via vercel)
 ```
